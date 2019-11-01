@@ -1,5 +1,5 @@
 # async
-Nodejs project to see examples of different ways to manage asynchronous tasks
+Nodejs API project to see examples of different ways to manage asynchronous tasks
 
 You have 3 routes:<br/>
 localhost:3000/async/promisecallback/:number<br/>
